@@ -7,8 +7,7 @@
   line-height: 1.7;
   box-shadow: 0 0 25px rgba(101, 61, 37, 0.15);
 ">
-
-  <img src="https://github.com/user-attachments/assets/9b5f8037-0bf0-4220-b1fb-8a532b16de02" alt="Kasperia Logo" width="340" style="border-radius: 20px; box-shadow: 0 0 25px rgba(128, 84, 59, 0.25); margin-bottom: 25px;">
+<img width="2000" height="2000" alt="1000259049" src="https://github.com/user-attachments/assets/bc5c33b8-fca3-4b4d-a29a-2f1d84b6d3f3" />
 
   <h1 style="color: #80543b; letter-spacing: 2px; margin-bottom: 10px;">KASPERIA</h1>
   <h3 style="color: #6b5b53; font-weight: 600; margin-top: 0;">Preserving the Spirit of Kashmir</h3>
